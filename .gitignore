@@ -23,5 +23,6 @@ pip-delete-this-directory.txt
 *.xlsx
 *.xml
 *.log
+*.spec
 build/
 dist/
